@@ -1,0 +1,105 @@
+
+.gallerySection {
+   display: grid;
+   grid-template-rows: repeat(1fr);
+   grid-template-areas: 
+   'first'
+   'second' 
+   'third' 
+   'fourth' 
+   'fifth' 
+   'sixth';
+   gap: 1rem;
+}
+
+.galleryItem:nth-child(1) {
+   grid-area: first;
+   background: url(./gallery/patricia-cupcakes.jpeg) no-repeat;
+   background-size: cover;
+
+}
+
+.galleryItem:nth-child(2) {
+   grid-area: second;
+   background: url(../styles/gallery/Art-x-resbak.jpeg) center no-repeat ;
+   background-size: cover;
+}
+
+.galleryItem:nth-child(3) {
+   grid-area: third;
+   background: url(../styles/gallery/pexels-james-wheeler-1539225.jpg) center no-repeat fixed;
+   background-size: cover;
+}
+
+.galleryItem:nth-child(4) {
+   grid-area: fourth;
+   background: url(../styles/gallery/patricia-cupcakes-mobile.jpeg)  no-repeat ;
+   background-size: cover;
+   background-position: 50%;
+}
+
+.galleryItem:nth-child(5) {
+   grid-area: fifth;
+   background: url(../styles/gallery/basic-gym-mobile.jpeg) no-repeat ;
+   background-size: cover;
+}
+
+.galleryItem:nth-child(6){
+   grid-area:sixth;
+   background: url(../styles/gallery/pexels-paulo-cerqueira-15759974.jpg) center no-repeat fixed;
+   background-size: cover;
+}
+
+.galleryItem {
+   padding: 1%;
+   gap: 1rem; 
+   margin: 0 .5rem;
+   border-radius: 8px;
+   border: 2px solid #1b202a;
+   content: " "
+}
+
+.galleryItem p {
+   color: transparent;
+   user-select: none;
+}
+
+
+.gallery h3{
+   font-size: 2rem; 
+   padding: 2%;
+}
+
+
+
+@media (max-width: 600px) {
+   .gallerySection {
+      grid-template-columns: repeat(1, 1fr);
+
+   }
+
+}
+
+@media (min-width: 601px) {
+
+   .gallery {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+   }
+   .gallerySection {
+      margin: 5%;
+      width: 80%;
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(3, 1fr);
+      grid-template-areas: 
+      'first second third'
+      'fourth fifth sixth'
+   }
+
+   .galleryItem {
+      margin: 0;
+   }
+}

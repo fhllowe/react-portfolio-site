@@ -1,0 +1,59 @@
+/* Box Model Hack */
+* {
+  font-family: 'Source Sans Pro', sans-serif;
+  box-sizing: border-box;
+  line-height: 1.8rem;
+  font-size: 62.5%;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+  color: #2a324b;
+  text-align: center;
+  height: auto;
+}
+
+html {
+  height: auto;
+  background: #2a324b;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+  header .clearfix {
+  width: 100%;
+  height: 4%;
+  color: black;
+  text-align: center;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+a {
+  text-decoration: none;
+}
+
+
+@media (min-width: 700px){
+
+}

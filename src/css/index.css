@@ -1,0 +1,76 @@
+html {
+  scroll-behavior: smooth ;
+
+}
+
+body, html {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+    height: 100vh;
+    margin: 0;
+  color: #1b202a;
+  background-color: #fafafa;
+  
+}
+
+* {
+  font-family: 'Source Sans Pro', sans-serif;
+  box-sizing: border-box;
+  line-height: 1.8rem;
+  font-size: 62.5%;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* Container Stylings */
+.navLinks {
+  width: 50%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Additional styling */
+
+
+a {
+  padding: 1%;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 2.5rem
+}
+
+h2 {
+  font-size: 1.8rem
+}
+
+h3 {
+  font-size: 1.6rem
+}
+
+p, li {
+  font-size: 1.2rem
+}
+
