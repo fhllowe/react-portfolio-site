@@ -1,29 +1,26 @@
 {
   "files": {
-    "main.css": "/react-portfolio-site/static/css/main.1f3d68ad.css",
-    "main.js": "/react-portfolio-site/static/js/main.5f7a3868.js",
+    "main.css": "/react-portfolio-site/static/css/main.2923e1ae.css",
+    "main.js": "/react-portfolio-site/static/js/main.5351386c.js",
     "static/js/787.ce9a24bf.chunk.js": "/react-portfolio-site/static/js/787.ce9a24bf.chunk.js",
     "static/media/video-desktop.mp4": "/react-portfolio-site/static/media/video-desktop.2738a3c42a6f4e09ebd1.mp4",
-    "static/media/pexels-clément-proust-14590086.jpg": "/react-portfolio-site/static/media/pexels-clément-proust-14590086.4e10a6b6a7433701ef78.jpg",
     "static/media/video-mobile.mp4": "/react-portfolio-site/static/media/video-mobile.16b80375fc07aa33f64c.mp4",
-    "static/media/pexels-kamil-zubrzycki-1245066.jpg": "/react-portfolio-site/static/media/pexels-kamil-zubrzycki-1245066.80180d909f477ca805e0.jpg",
-    "static/media/pexels-paulo-cerqueira-15759974.jpg": "/react-portfolio-site/static/media/pexels-paulo-cerqueira-15759974.f56a8023a5b6fd5379d5.jpg",
     "static/media/Art-x-resbak.jpeg": "/react-portfolio-site/static/media/Art-x-resbak.dc75da718388447cacb9.jpeg",
     "static/media/patricia-cupcakes.jpeg": "/react-portfolio-site/static/media/patricia-cupcakes.c370155284e18e01078c.jpeg",
-    "static/media/pexels-los-muertos-crew-8908129.jpg": "/react-portfolio-site/static/media/pexels-los-muertos-crew-8908129.9022b5f416ccb8a57766.jpg",
-    "static/media/pexels-james-wheeler-1539225.jpg": "/react-portfolio-site/static/media/pexels-james-wheeler-1539225.3839b5e1cf3c6d0422d8.jpg",
     "static/media/patricia-cupcakes-mobile.jpeg": "/react-portfolio-site/static/media/patricia-cupcakes-mobile.7690e3998506c5dcc32f.jpeg",
     "static/media/basic-gym-mobile.jpeg": "/react-portfolio-site/static/media/basic-gym-mobile.418e334fa9581bcbef5a.jpeg",
+    "static/media/layered-waves-haikei.svg": "/react-portfolio-site/static/media/layered-waves-haikei.d27d43f50c6f83f7b920.svg",
+    "static/media/layered-waves-top.svg": "/react-portfolio-site/static/media/layered-waves-top.745cc6f084bcbaa5780f.svg",
     "static/media/twitter_social.svg": "/react-portfolio-site/static/media/twitter_social.f2e914576cc6d936d51805c487c4ecdc.svg",
     "index.html": "/react-portfolio-site/index.html",
     "static/media/github_social.svg": "/react-portfolio-site/static/media/github_social.58df00864189745e3affc1b1dcd32205.svg",
     "static/media/linkedin_social.svg": "/react-portfolio-site/static/media/linkedin_social.34415157aada48a25e2dd647821dc178.svg",
-    "main.1f3d68ad.css.map": "/react-portfolio-site/static/css/main.1f3d68ad.css.map",
-    "main.5f7a3868.js.map": "/react-portfolio-site/static/js/main.5f7a3868.js.map",
+    "main.2923e1ae.css.map": "/react-portfolio-site/static/css/main.2923e1ae.css.map",
+    "main.5351386c.js.map": "/react-portfolio-site/static/js/main.5351386c.js.map",
     "787.ce9a24bf.chunk.js.map": "/react-portfolio-site/static/js/787.ce9a24bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f3d68ad.css",
-    "static/js/main.5f7a3868.js"
+    "static/css/main.2923e1ae.css",
+    "static/js/main.5351386c.js"
   ]
 }
