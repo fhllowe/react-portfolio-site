@@ -1,5 +1,6 @@
 .contactForm {
-   padding: 2%
+   padding: 2%;
+   background-size: cover;
 }
 
 .contactForm input {

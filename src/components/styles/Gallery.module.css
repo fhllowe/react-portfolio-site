@@ -25,30 +25,21 @@
    background-size: cover;
 }
 
-.galleryItem:nth-child(3) {
-   grid-area: third;
-   background: url(../styles/gallery/pexels-james-wheeler-1539225.jpg) center no-repeat fixed;
-   background-size: cover;
-}
 
-.galleryItem:nth-child(4) {
+.galleryItem:nth-child(3) {
    grid-area: fourth;
    background: url(../styles/gallery/patricia-cupcakes-mobile.jpeg)  no-repeat ;
    background-size: cover;
    background-position: 50%;
 }
 
-.galleryItem:nth-child(5) {
+.galleryItem:nth-child(4) {
    grid-area: fifth;
    background: url(../styles/gallery/basic-gym-mobile.jpeg) no-repeat ;
    background-size: cover;
 }
 
-.galleryItem:nth-child(6){
-   grid-area:sixth;
-   background: url(../styles/gallery/pexels-paulo-cerqueira-15759974.jpg) center no-repeat fixed;
-   background-size: cover;
-}
+
 
 .galleryItem {
    padding: 1%;
@@ -92,11 +83,11 @@
    .gallerySection {
       margin: 5%;
 
-      grid-template-columns: repeat(3,  minmax(200px, 1fr));
+      grid-template-columns: repeat(2,  minmax(200px, 1fr));
       grid-template-rows: repeat(2, minmax(350px, 1fr));
       grid-template-areas: 
-      'first second third'
-      'fourth fifth sixth'
+      'first second '
+      'fourth fifth'
    }
 
    .galleryItem {

@@ -1,25 +1,39 @@
 .about {
-   width: '100%';
+   width: 50%;
    border: '1px solid black';
    background-size: fit-screen;
-   line-height: 40px;
-   position: block;
-   padding: 5%;
+   line-height: 30px;
+   grid-area: about
 }
 
+.toggle {
+   display: flex;
+   flex-direction: row;
+}
 
 main {
-   margin: 10% 0 0 0
+   height: 75vh;
+   background: url(./gallery/layered-waves-top.svg) no-repeat top;
+   background-size: cover;
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   grid-template-rows: 5fr 40fr 55fr;
+   grid-template-areas:
+   ' .  .'
+   'about . '
+   'toggle toggle';
+   gap: 3%;
+   padding: 5%
+}
+
+.about h3, .about h1 {
+   color: #f5bf09
 }
 
 @media (min-width: 700px) {
-   main {
-      display: flex;
-      flex-direction: column;
-   }
 
    .about {
       width: 80%;
-      
+
    }
 }

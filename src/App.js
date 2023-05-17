@@ -3,9 +3,10 @@ import About from './components/About';
 import Gallery from './components/Gallery'
 import Language from './components/Language';
 import Skills from './components/Skills'
-import HBackground from './components/HBackground';
 import Footer from './components/Footer';
 import ContactForm from './components/Contact'
+import HBackground from './components/HBackground';
+
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
      <Skills />
      <Gallery />
      <ContactForm />
+     <HBackground />
      <Footer />
     </div>
   );

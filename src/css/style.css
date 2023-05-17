@@ -49,6 +49,9 @@ html {
 /* ADDITIONAL STYLES
 /*******************************************/
 
+h1 {
+  font-family : 'EB Garamond', serif;
+}
 a {
   text-decoration: none;
 }

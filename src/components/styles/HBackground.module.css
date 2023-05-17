@@ -1,19 +1,14 @@
-.custom-shape-divider-top-1679453288 {
-   position: absolute;
-   top: 0;
-   left: 0;
+.wave {
    width: 100%;
-   overflow: hidden;
-   line-height: 0;
+   content: "";
+   background: url(./gallery/layered-waves-haikei.svg) no-repeat ;
+   background-size: cover;
+   background-position: 90%;
+   background-size: cover;
+   height: 30vh
 }
 
-.wave svg {
-   position: relative;
-   display: block;
-   width: calc(111% + 1.3px);
-   height: 171px;
-}
-
-.wave .shapeFill {
-   fill: black;
+.wave p {
+   color: transparent;
+   user-select: none;
 }

@@ -14,17 +14,12 @@ import ShowHideParagraph from '../components/ShowHideParagraph.js'
 const About = (about, backgroundTransition) => {
   return (
         <main>
-
           <section className={styles.about}>
-            {/* <h1> Fred Lowe</h1> */}
-            {/* <h3>Software Engineer</h3>
-            <p>Hey there! I'm a full-stack software enginner based in Bangkok, Thailand </p> */}
 
             <h3>Hey there! </h3>
             <h1>I'm Fred Lowe</h1>
-
-            <ShowHideParagraph />
           </section>
+          <ShowHideParagraph className={styles.showHide} />
         </main>
   ) 
 }
