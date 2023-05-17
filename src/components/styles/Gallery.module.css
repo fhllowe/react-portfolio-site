@@ -28,9 +28,9 @@
 
 .galleryItem:nth-child(3) {
    grid-area: fourth;
-   background: url(../styles/gallery/patricia-cupcakes-mobile.jpeg)  no-repeat ;
+   background: url(../styles/gallery/coffee-web-api.jpeg)  no-repeat ;
    background-size: cover;
-   background-position: 50%;
+   background-position: top;
 }
 
 .galleryItem:nth-child(4) {
@@ -82,7 +82,7 @@
    }
    .gallerySection {
       margin: 5%;
-
+      width: 80%;
       grid-template-columns: repeat(2,  minmax(200px, 1fr));
       grid-template-rows: repeat(2, minmax(350px, 1fr));
       grid-template-areas: 
