@@ -1,14 +1,17 @@
 .about {
-   width: 50%;
+   width: 100%;
    border: '1px solid black';
    background-size: fit-screen;
-   line-height: 30px;
-   grid-area: about
+   line-height: 50px;
+   grid-area: about;
+   text-align: left;
 }
 
 .toggle {
    display: flex;
    flex-direction: row;
+   text-align: left;
+   margin-bottom: 4% ;
 }
 
 main {
@@ -29,6 +32,7 @@ main {
 .about h3, .about h1 {
    color: #f5bf09
 }
+
 
 @media (min-width: 700px) {
 

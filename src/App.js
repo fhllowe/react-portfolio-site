@@ -1,3 +1,7 @@
+import "./App.css"
+import "./css/normalize.css"
+import "./css/reset.css"
+import "./css/index.css"
 import Header from './components/Header'
 import About from './components/About';
 import Gallery from './components/Gallery'

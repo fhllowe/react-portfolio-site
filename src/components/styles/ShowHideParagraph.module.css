@@ -2,3 +2,6 @@
    grid-area: toggle
 }
 
+.toggle {
+   display: block
+}

@@ -17,7 +17,7 @@ const About = (about, backgroundTransition) => {
           <section className={styles.about}>
 
             <h3>Hey there! </h3>
-            <h1>I'm Fred Lowe</h1>
+            <h1>I'm Fredrick Lowe</h1>
           </section>
           <ShowHideParagraph className={styles.showHide} />
         </main>
