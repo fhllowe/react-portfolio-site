@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-site/static/css/main.2d2191cb.css",
+    "main.js": "/react-portfolio-site/static/js/main.5f7a3868.js",
+    "static/js/787.ce9a24bf.chunk.js": "/react-portfolio-site/static/js/787.ce9a24bf.chunk.js",
+    "static/media/video-desktop.mp4": "/react-portfolio-site/static/media/video-desktop.2738a3c42a6f4e09ebd1.mp4",
+    "static/media/pexels-clément-proust-14590086.jpg": "/react-portfolio-site/static/media/pexels-clément-proust-14590086.4e10a6b6a7433701ef78.jpg",
+    "static/media/video-mobile.mp4": "/react-portfolio-site/static/media/video-mobile.16b80375fc07aa33f64c.mp4",
+    "static/media/pexels-kamil-zubrzycki-1245066.jpg": "/react-portfolio-site/static/media/pexels-kamil-zubrzycki-1245066.80180d909f477ca805e0.jpg",
+    "static/media/pexels-paulo-cerqueira-15759974.jpg": "/react-portfolio-site/static/media/pexels-paulo-cerqueira-15759974.f56a8023a5b6fd5379d5.jpg",
+    "static/media/Art-x-resbak.jpeg": "/react-portfolio-site/static/media/Art-x-resbak.dc75da718388447cacb9.jpeg",
+    "static/media/patricia-cupcakes.jpeg": "/react-portfolio-site/static/media/patricia-cupcakes.c370155284e18e01078c.jpeg",
+    "static/media/pexels-los-muertos-crew-8908129.jpg": "/react-portfolio-site/static/media/pexels-los-muertos-crew-8908129.9022b5f416ccb8a57766.jpg",
+    "static/media/patricia-cupcakes-mobile.jpeg": "/react-portfolio-site/static/media/patricia-cupcakes-mobile.7690e3998506c5dcc32f.jpeg",
+    "static/media/coffee-log-api.jpeg": "/react-portfolio-site/static/media/coffee-log-api.9b58dd0f4e760dd8e34f.jpeg",
+    "static/media/basic-gym-mobile.jpeg": "/react-portfolio-site/static/media/basic-gym-mobile.418e334fa9581bcbef5a.jpeg",
+    "static/media/twitter_social.svg": "/react-portfolio-site/static/media/twitter_social.f2e914576cc6d936d51805c487c4ecdc.svg",
+    "index.html": "/react-portfolio-site/index.html",
+    "static/media/github_social.svg": "/react-portfolio-site/static/media/github_social.58df00864189745e3affc1b1dcd32205.svg",
+    "static/media/linkedin_social.svg": "/react-portfolio-site/static/media/linkedin_social.34415157aada48a25e2dd647821dc178.svg",
+    "main.2d2191cb.css.map": "/react-portfolio-site/static/css/main.2d2191cb.css.map",
+    "main.5f7a3868.js.map": "/react-portfolio-site/static/js/main.5f7a3868.js.map",
+    "787.ce9a24bf.chunk.js.map": "/react-portfolio-site/static/js/787.ce9a24bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d2191cb.css",
+    "static/js/main.5f7a3868.js"
+  ]
+}

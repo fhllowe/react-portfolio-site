@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-site/static/css/main.c53a3441.css",
+    "main.js": "/react-portfolio-site/static/js/main.ce198a50.js",
+    "static/js/787.ce9a24bf.chunk.js": "/react-portfolio-site/static/js/787.ce9a24bf.chunk.js",
+    "static/media/video-desktop.mp4": "/react-portfolio-site/static/media/video-desktop.2738a3c42a6f4e09ebd1.mp4",
+    "static/media/video-mobile.mp4": "/react-portfolio-site/static/media/video-mobile.16b80375fc07aa33f64c.mp4",
+    "static/media/Art-x-resbak.jpeg": "/react-portfolio-site/static/media/Art-x-resbak.dc75da718388447cacb9.jpeg",
+    "static/media/patricia-cupcakes.jpeg": "/react-portfolio-site/static/media/patricia-cupcakes.c370155284e18e01078c.jpeg",
+    "static/media/coffee-web-api.jpeg": "/react-portfolio-site/static/media/coffee-web-api.7d21c776f6f7da3829bd.jpeg",
+    "static/media/basic-gym-mobile.jpeg": "/react-portfolio-site/static/media/basic-gym-mobile.418e334fa9581bcbef5a.jpeg",
+    "static/media/layered-waves-haikei.svg": "/react-portfolio-site/static/media/layered-waves-haikei.d27d43f50c6f83f7b920.svg",
+    "static/media/layered-waves-top.svg": "/react-portfolio-site/static/media/layered-waves-top.745cc6f084bcbaa5780f.svg",
+    "static/media/twitter_social.svg": "/react-portfolio-site/static/media/twitter_social.f2e914576cc6d936d51805c487c4ecdc.svg",
+    "index.html": "/react-portfolio-site/index.html",
+    "static/media/github_social.svg": "/react-portfolio-site/static/media/github_social.58df00864189745e3affc1b1dcd32205.svg",
+    "static/media/linkedin_social.svg": "/react-portfolio-site/static/media/linkedin_social.34415157aada48a25e2dd647821dc178.svg",
+    "main.c53a3441.css.map": "/react-portfolio-site/static/css/main.c53a3441.css.map",
+    "main.ce198a50.js.map": "/react-portfolio-site/static/js/main.ce198a50.js.map",
+    "787.ce9a24bf.chunk.js.map": "/react-portfolio-site/static/js/787.ce9a24bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c53a3441.css",
+    "static/js/main.ce198a50.js"
+  ]
+}
